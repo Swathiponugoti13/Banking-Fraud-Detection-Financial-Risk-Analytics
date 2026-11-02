@@ -85,15 +85,17 @@ The report contains three pages. Screenshots below are included for a quick prev
 
 ### 1. Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+<img width="1106" height="623" alt="Screenshot 2026-11-02 212901" src="https://github.com/user-attachments/assets/f7cff004-ed99-4274-99a9-e00aff6097af" />
+
 
 ### 2. Fraud Analysis & Investigation
 
-![Fraud Analysis](Screenshots/Fraud_Analysis.png)
+<img width="1117" height="629" alt="Screenshot 2026-11-02 212939" src="https://github.com/user-attachments/assets/5c074efb-fbbb-4794-9f85-ac53bbee5901" />
+
 
 ### 3. Risk & ML Performance
 
-![Risk and ML Performance](Screenshots/Risk_ML_Performance.png)
+<img width="1116" height="625" alt="Screenshot 2026-11-02 213007" src="https://github.com/user-attachments/assets/cfe71abc-335d-4df3-8944-5deae08ea0ed" />
 
 ## Repository structure
 
